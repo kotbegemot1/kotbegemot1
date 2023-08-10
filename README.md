@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://cs8.pikabu.ru/post_img/2017/02/08/11/1486578726190191388.webm" width="100"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100"/>
 
 
 <div id="badges">
