@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="mailto:kk1slorod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=email" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </div>
 
