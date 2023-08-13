@@ -27,7 +27,10 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1)](https://github.com/kotbegemot1/kotbegemot1)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs)
 
 <!--
 **kotbegemot1/kotbegemot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
