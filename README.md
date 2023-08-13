@@ -31,7 +31,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&background=000000)](https://git.io/streak-stats)
 <!--
