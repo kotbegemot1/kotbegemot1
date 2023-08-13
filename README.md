@@ -29,9 +29,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1)](https://github.com/kotbegemot1/kotbegemot1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs)
 
