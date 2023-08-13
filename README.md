@@ -31,13 +31,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1)](https://github.com/kotbegemot1/kotbegemot1)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kotbegemot1/kotbegemot1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=gradient)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&background=000000)](https://git.io/streak-stats)
 <!--
