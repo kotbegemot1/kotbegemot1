@@ -26,9 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&stroke=COLOR)
-
-![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1)](https://github.com/kotbegemot1/kotbegemot1)
