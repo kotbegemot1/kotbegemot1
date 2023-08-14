@@ -4,14 +4,10 @@
 </div>
 
 ### 🧑‍💻 Я начинающий Web-разработчик :
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Занимаюсь разработкой веб-приложений
+- Стремлюсь писать чистый и читабельный код
+- Стараюсь постоянно осваивать что-то новое
+- Хочу работать с опытными коллегами
 
 ---
 
@@ -25,25 +21,9 @@
   </a>
 </div>
 
-
 ---
 
-<!-- <div id="header" align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
-
-<div id="badges">
-  <a href="https://t.me/kotbegemot111">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:kk1slorod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
-</div>
-</div> -->
-
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -62,14 +42,13 @@
 ### :computer: Codewars :
 <div id="codewars" align="center">
     <img src="https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient" title="Codewars" alt="Codewars"/>
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 </div>
+
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 
 ---
 
 ### :open_book: Моя статистика :
-
 <div id="stats" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical" alt=""/>
@@ -81,18 +60,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical) -->
-
-
-
-**kotbegemot1/kotbegemot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
