@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-</div>
     <h1>Привет всем, меня зовут Евгений :v:</h1>
+</div>
     <p><b>Я начинающий Web-разработчик</b></p>
     <h3>Связаться со мной:</h3>
     <div id="badges">
