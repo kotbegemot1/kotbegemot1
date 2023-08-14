@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+</div>
     <h1>Привет всем, меня зовут Евгений :v:</h1>
     <p><b>Я начинающий Web-разработчик</b></p>
     <h3>Связаться со мной:</h3>
@@ -11,7 +12,7 @@
         <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
       </a>
     </div>
-</div>
+
 
 ---
 
