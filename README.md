@@ -2,16 +2,28 @@
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
     <h1>Привет всем, меня зовут Евгений :v:</h1>
 </div>
-    <p><b>Я начинающий Web-разработчик</b></p>
-    <h3>Связаться со мной:</h3>
-    <div id="badges">
-      <a href="https://t.me/kotbegemot111">
-        <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-      </a>
-      <a href="mailto:kk1slorod@gmail.com">
-        <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-      </a>
-    </div>
+
+### 🧑‍💻 Я начинающий Web-разработчик :
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+---
+
+### :iphone: Связаться со мной :
+<div id="badges">
+  <a href="https://t.me/kotbegemot111">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:kk1slorod@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+</div>
 
 
 ---
