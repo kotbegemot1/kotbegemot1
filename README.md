@@ -35,11 +35,16 @@
 
 ### :open_book: Languages and Tools :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000)](https://git.io/streak-stats)
+<div>
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)</div>
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical)</div>
+</div>
+
+
+
+
+
 <!--
 **kotbegemot1/kotbegemot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
