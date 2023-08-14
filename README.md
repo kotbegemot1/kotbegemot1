@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
@@ -13,6 +11,10 @@
   </a>
 </div>
 </div>
+
+# Hi there 👋
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
