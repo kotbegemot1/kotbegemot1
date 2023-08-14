@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
     <h1>Привет всем, меня зовут Евгений :v:</h1>
-<p align="center">Я живу в городе Сосновоборск Красноярского края, и ищу интересную работу на должность Frontend Developer / Web Developer</p>
+    <p>Я начинающий Web-разработчик</p>
     <h3>Связаться со мной:</h3>
     <div id="badges">
       <a href="https://t.me/kotbegemot111">
