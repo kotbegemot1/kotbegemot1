@@ -31,7 +31,8 @@
 
 ### :computer: Codewars :
 <div id="codewars" align="center">
-![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient)
+    <img src="https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient" alt=""/>
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 </div>
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 
