@@ -45,6 +45,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 ### :computer: Codewars :
 <div id="codewars" align="center">
     <img src="https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient" title="Codewars" alt="Codewars"/>
@@ -52,7 +54,9 @@
 </div>
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 
-### :open_book: Languages and Tools :
+---
+
+### :open_book: Моя статистика :
 
 <div id="stats" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000" alt=""/>
