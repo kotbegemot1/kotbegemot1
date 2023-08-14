@@ -29,8 +29,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :computer: Codewars :
+
 ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient)
 
+### :open_book: Languages and Tools :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
