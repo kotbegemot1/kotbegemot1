@@ -2,7 +2,7 @@
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
     <h1>Привет всем, меня зовут Евгений :v:</h1>
     <h3>Я начинающий Web-разработчик</h3>
-    <h3>Связаться со мной:</h3>
+    <h2>Связаться со мной:</h2>
     <div id="badges">
       <a href="https://t.me/kotbegemot111">
         <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
