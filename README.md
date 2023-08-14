@@ -30,12 +30,14 @@
 </div>
 
 ### :computer: Codewars :
-
+<div id="codewars" align="center">
 ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient)
+</div>
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=kotbegemot1&theme=gradient) -->
 
 ### :open_book: Languages and Tools :
 
-<div id="stat" align="center">
+<div id="stats" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical" alt=""/>
      <img src="https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical" alt=""/>
