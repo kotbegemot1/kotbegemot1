@@ -35,14 +35,17 @@
 
 ### :open_book: Languages and Tools :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000)](https://git.io/streak-stats)
-<div>
-<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)</div>
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical)</div>
+<div id="stat" align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical" alt=""/>
+     <img src="https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical" alt=""/>
 </div>
 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotbegemot1&theme=radical&card_width=1024&background=000000)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbegemot1&hide_progress=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbegemot1&hide=contribs,prs&theme=radical) -->
 
 
 <!--
