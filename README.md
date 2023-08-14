@@ -1,11 +1,13 @@
 <div id="header" align="center">
-    <h1>Привет всем, меня зовут Евгений :v:</h1>
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-    <h2>Я начинающий Web-разработчик</h2>
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
+    <h1>Привет всем, меня зовут Евгений :v:</h1>
+    <p>Я начинающий Web-разработчик</p>
+    <ul>
+    <li>🔭 I’m currently working on ...</li>
+    <li>🌱 I’m currently working on ...</li>
+    <li>👯 I’m currently working on ...</li>
+    <li>🤔 I’m currently working on ...</li>
+    </ul>
     <h3>Связаться со мной:</h3>
     <div id="badges">
       <a href="https://t.me/kotbegemot111">
@@ -16,6 +18,8 @@
       </a>
     </div>
 </div>
+
+---
 
 <!-- <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
