@@ -11,18 +11,6 @@
 
 ---
 
-### :iphone: Связаться со мной :
-<div id="badges">
-  <a href="https://t.me/kotbegemot111">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:kk1slorod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
-</div>
-
----
-
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -35,6 +23,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :iphone: Связаться со мной :
+<div id="badges">
+  <a href="https://t.me/kotbegemot111">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:kk1slorod@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
 </div>
 
 ---
