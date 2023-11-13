@@ -35,6 +35,9 @@
   <a href="mailto:kk1slorod@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/koltyapin-evgeniy/">
+    <img src="https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin" alt="Linkedin Badge"/>
+  </a>
 </div>
 
 ---
